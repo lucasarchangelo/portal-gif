@@ -1,0 +1,30 @@
+.cards_shadow {
+  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px !important;
+}
+
+.background_site {
+  background-image: "/img/background.jpg";
+}
+
+.home_title {
+  padding-top: 60px;
+  font-family: "Montserrat", sans-serif;
+  color: #444;
+  line-height: 130%;
+  font-weight: 500;
+  font-size: 52px;
+  margin-bottom: 15px;
+}
+
+.home_text {
+  color: #707070;
+  font-size: 19px;
+  line-height: 32px;
+  margin-bottom: 40px;
+}
+
+.image_size {
+  width: 450px;
+  height: 250px !important;
+}
+
